@@ -8,10 +8,7 @@ Ce fut un jour mémorable. Un soleil radieux éclairait les collines qui s'éten
 </a> 
 <a href="https://www.youtube.com/watch?v=dbQPtrlTkLA" target="_blank">
  <img src="http://img.youtube.com/vi/dbQPtrlTkLA/mqdefault.jpg" alt="Watch the video" width="300" height="180" border="10" />
-</a> 
-<a href="https://www.youtube.com/watch?v=eyhfXtzYHsc" target="_blank">
- <img src="http://img.youtube.com/vi/eyhfXtzYHsc/mqdefault.jpg" alt="Watch the video" width="300" height="180" border="10" />
-</a> 
+</a>
 
 #### See more 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2WT3DWFMAC) [![Google Chrome](https://img.shields.io/badge/Blog-279a47?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://itsme.to/tag/mshade/) 
