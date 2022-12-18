@@ -1,4 +1,4 @@
 ### It's time to change things. 
 
-[![Commits Badge](https://badges.pufler.dev/commits/all/MSh4de)](https://badges.pufler.dev)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
